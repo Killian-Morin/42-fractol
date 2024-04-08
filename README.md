@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
-  <img src="logo.png" alt="Logo" width="" height="80" />
+  <img src="logo.png" alt="Logo" />
 
   <h3 align="center">fract-ol</h3>
 
