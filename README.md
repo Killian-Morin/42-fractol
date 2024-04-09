@@ -13,7 +13,6 @@
     This project is about creating graphically beautiful fractals.
   </p>
   <br>
-  <br>
 </div>
 
 <!-- TABLE OF CONTENTS -->
